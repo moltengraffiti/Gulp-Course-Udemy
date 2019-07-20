@@ -27,7 +27,7 @@
     "imagemin-jpeg-recompress": "^6.0.0",
     "imagemin-pngquant": "^7.0.0",
     "minimatch": ">=3.0.2",
-    "lodash": ">=4.17.11"
+    "lodash": ">=4.17.13"
   },
   "dependencies": {
     "static-server": "^2.2.1"
